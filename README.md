@@ -9,10 +9,8 @@ Skills
 _____________
 Python ![image](https://user-images.githubusercontent.com/85368118/196083430-af0b338a-6174-42ae-87e3-9e0b5a575886.png)
 
-PHP
-
 <h2>HTML</h2>
-
+PHP
 CSS
 
 
