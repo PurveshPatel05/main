@@ -18,9 +18,9 @@ CSS
 _______________________________________
 --  Discord [Purvesh#8177]
 
---  Twitter [purvesh_0504]
+--  Twitter [https://twitter.com/purvesh_0504]
 
---  Instagram [purvesh_05]
+--  Instagram [https://instagram.com/purvesh_05]
 
 --  Email [purvesh@purveshpatel.tk]
 
