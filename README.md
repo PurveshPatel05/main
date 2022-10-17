@@ -15,7 +15,13 @@ CSS
 
 
 ### Contact
+_______________________________________
 --  Discord [Purvesh#8177]
+
 --  Twitter [purvesh_0504]
+
 --  Instagram [purvesh_05]
+
 --  Email [purvesh@purveshpatel.tk]
+
+_______________________________________
